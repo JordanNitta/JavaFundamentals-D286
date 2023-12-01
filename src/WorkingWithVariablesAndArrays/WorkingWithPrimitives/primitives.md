@@ -1,5 +1,4 @@
-```html
-    <ul>
+<ul>
     <li>Primitive Types: Are for storing values directly</li>
     <li>------------------------------------------------</li>
     <li>Byte: -128 to 127</li>
@@ -12,7 +11,7 @@
     <li>char: holds a unicode character and can also hold a numeric value but it will translate that to the corresponding unicode character</li>
     <li>boolean: 1 and 0 </li>
 </ul>
-```
+
 <img src="sizeChar.png">
 
 
