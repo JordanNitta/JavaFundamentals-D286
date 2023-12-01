@@ -1,4 +1,4 @@
-package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseThree;
+package PackagesAndClasses.ExcersiseThree;
 
 public class Student {
     public int studentId;

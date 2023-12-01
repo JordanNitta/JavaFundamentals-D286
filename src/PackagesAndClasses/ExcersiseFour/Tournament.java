@@ -1,4 +1,4 @@
-package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseFour;
+package PackagesAndClasses.ExcersiseFour;
 
 public class Tournament {
     public String name;

@@ -1,4 +1,4 @@
-package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseFour;
+package PackagesAndClasses.ExcersiseFour;
 
 public class Player {
     public String name;

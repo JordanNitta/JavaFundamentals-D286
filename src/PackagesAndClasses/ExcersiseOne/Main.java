@@ -1,4 +1,4 @@
-package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseOne;
+package PackagesAndClasses.ExcersiseOne;
 
 public class Main {
     public static void main(String[] args){

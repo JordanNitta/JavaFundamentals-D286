@@ -1,4 +1,4 @@
-package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseOne;
+package PackagesAndClasses.ExcersiseOne;
 
 public class BankAccount {
     int accountNumber;

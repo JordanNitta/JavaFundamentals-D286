@@ -1,9 +1,9 @@
-package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseTwo.main;
+package PackagesAndClasses.ExcersiseTwo.main;
 
 // Add the necessary imports to the Main class for the Product, Inventory, and Warehouse classes from the inventory package. They should go below the package statement:
-import WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseTwo.Inventory.Inventory;
-import WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseTwo.Inventory.Warehouse;
-import WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseTwo.Inventory.Product;
+import PackagesAndClasses.ExcersiseTwo.Inventory.Inventory;
+import PackagesAndClasses.ExcersiseTwo.Inventory.Warehouse;
+import PackagesAndClasses.ExcersiseTwo.Inventory.Product;
 
 // 6. In the main method, create Product, Inventory, and Warehouse objects and set some values for their fields.
 public class Main {
