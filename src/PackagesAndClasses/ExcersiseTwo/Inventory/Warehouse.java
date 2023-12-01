@@ -1,4 +1,4 @@
-package PackagesAndClasses.ExcersiseTwo.Inventory;
+package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseTwo.Inventory;
 
 public class Warehouse {
     public int warehouseId;

@@ -1,8 +1,5 @@
-package PackagesAndClasses.ExcersiseThree;
+package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseThree;
 
-import PackagesAndClasses.ExcersiseThree.Student;
-import PackagesAndClasses.ExcersiseThree.Enrollment;
-import PackagesAndClasses.ExcersiseThree.Course;
 public class Main {
     public static void main(String[] args){
 

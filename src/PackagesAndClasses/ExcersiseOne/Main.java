@@ -1,6 +1,4 @@
-package PackagesAndClasses.ExcersiseOne;
-
-import PackagesAndClasses.ExcersiseOne.BankAccount;
+package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseOne;
 
 public class Main {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package PackagesAndClasses.ExcersiseFour;
+package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseFour;
 
 public class Match {
     public Team team1;

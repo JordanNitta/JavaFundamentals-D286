@@ -33,5 +33,13 @@ public class Operators {
     int nr6 = 3;
     System.out.println(-nr6);
     System.out.println(nr6);
+
+//  Relation Operator
+    int small = 2;
+    int big = 10;
+    System.out.println(small >= big);
+    System.out.println(small == big);
+    System.out.println(small <= big);
+
     }
 }

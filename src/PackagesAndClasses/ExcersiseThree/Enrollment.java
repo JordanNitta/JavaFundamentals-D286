@@ -1,4 +1,4 @@
-package PackagesAndClasses.ExcersiseThree;
+package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseThree;
 
 public class Enrollment {
     public Student student;

@@ -1,4 +1,4 @@
-package PackagesAndClasses.ExcersiseFour;
+package WorkingWithVariablesAndArrays.PackagesAndClasses.ExcersiseFour;
 
 public class Team {
     public String name;
