@@ -69,7 +69,7 @@ for (int i = 0; i <= 10; i++){
 }
 ```
 
-#### ForEach Loop - Allows a program to execute a block of code for every element in a collection or array. 
+#### [ForEach Loop ](ForEachLoops)- Allows a program to execute a block of code for every element in a collection or array. 
 ##### Useful for iterating over collections or arrays in a concise and readable way
 ```java
 String[] names = {"Supra", "Bob", "Fatiha"};
@@ -79,6 +79,6 @@ for (String name: names){
 }
 ```
 
-#### Break and Continue - Are used to control the flow of execution in loops and switch statements.
+#### [Break and Continue](ControllingLoopsWithBreakAndContinue) - Are used to control the flow of execution in loops and switch statements.
 ##### Break - Immediately exits a loop or switch statement and continue execution of the code that follows it.
 ##### Continue - Causes the loop to skip the rest of the current iteration and continue with the next iteration
